@@ -1,10 +1,3 @@
-//
-//  S26W12NavigationApp.swift
-//  S26W12Navigation
-//
-//  Created by Student on 11/17/26.
-//
-
 import SwiftUI
 
 @main
